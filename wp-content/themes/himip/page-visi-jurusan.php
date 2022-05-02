@@ -25,7 +25,7 @@
                                     NO.0537/0/1983
                                     tentang jenis dan jumlah jurusan di Universitas Riau. </p>
                             </div>
-                        <img src="LOGOUNRI.png" alt="">
+                        <img src="<?php echo  bloginfo('template_directory').'/img/LOGOUNRI.png' ?>" alt="">
                     </div>
                 </div>
                 <!-- sejarah jurusan end -->

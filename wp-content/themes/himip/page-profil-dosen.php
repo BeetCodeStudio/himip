@@ -12,7 +12,7 @@
             <div class="p-4">
                 <div
                     class="h-full space-y-3 py-5 px-3 flex flex-col justify-center items-center bg-slate-100 rounded-md border-2 border-gray-300  ">
-                    <img src="gambar/11.-Adlin-S.Sos-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/11.-Adlin-S.Sos-M.Si_.png" alt="">
                     <p class="text-center font-semibold font-poppins text-lg capitalize">ADLIN, S.Sos, M.Si</p>
                     <p class="text-center font-semibold text-slate-600 text-md capitalize">Ketua Jurusan Ilmu Pemerintahan
                     </p>
@@ -28,7 +28,7 @@
 
                 <div
                     class="h-full space-y-3 py-5 px-3 flex flex-col justify-center items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/12.-Auradian-Marta-S.IP-MA.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/12.-Auradian-Marta-S.IP-MA.png" alt="">
                     <p class="text-center font-semibold font-poppins text-lg capitalize">Dr.AURADIAN MARTA, MA</p>
                     <div class="text-center flex-1">
                         <p class="font-semibold text-lg">Pendidikan</p>
@@ -43,7 +43,7 @@
             <div class="p-4">
                 <div
                     class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/4.-Drs.-H.-Isril-MH.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/4.-Drs.-H.-Isril-MH.png" alt="">
 
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Drs. ISRIL, M.H
                     </p>
@@ -56,7 +56,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/6.-Drs.-M.-Y.-Tiyas-Tinov-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/6.-Drs.-M.-Y.-Tiyas-Tinov-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Drs. M. Y. TIYAS TINOV, M.Si
                     </p>
@@ -69,7 +69,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/5.-Dra.-Hj.-Wan-Asrida-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/5.-Dra.-Hj.-Wan-Asrida-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Dra. Hj. WAN ASRIDA, M.Si
                     </p>
@@ -82,7 +82,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/10.-Drs.-Erman-M-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/10.-Drs.-Erman-M-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Drs. ERMAN, M.Si
                     </p>
@@ -95,7 +95,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/7.-Drs.-H.-Ishak-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/7.-Drs.-H.-Ishak-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Drs, H. ISHAK, M.Si
                     </p>
@@ -108,7 +108,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/8.-Drs.-Raja-Muihammad-Amin-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/8.-Drs.-Raja-Muihammad-Amin-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">Drs. RAJA MUHAMMAD, AMIN M.Si
                     </p>
@@ -121,7 +121,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/16.-H.-Sofyan-Hadi-S.Sos-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/16.-H.-Sofyan-Hadi-S.Sos-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">SOFYAN HADI, S.Sos, M.Si
                     </p>
@@ -134,7 +134,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/13.-Wazni-S.IP-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/13.-Wazni-S.IP-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">WAZNI. S.IP, M,Si
                     </p>
@@ -147,7 +147,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/15.-Rury-Febrina-S.IP-M.Si_.png" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/15.-Rury-Febrina-S.IP-M.Si_.png" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">RURY FEBRINA, S.IP, M.Si
                     </p>
@@ -160,7 +160,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/image-1.png" class="w-1/2 h-40" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/image-1.png" class="w-40 h-40" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">TITO HANDOKO, S.IP., M.Si
                     </p>
@@ -174,7 +174,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/14.-Baskoro-Wicaksono-S.IP-M.IP_.png" class="w-1/2 h-40" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/14.-Baskoro-Wicaksono-S.IP-M.IP_.png" class="w-30 h-40" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">BASKORO WICAKSONO, S.IP, M.IP
                     </p>
@@ -187,7 +187,7 @@
             </div>
             <div class="p-4">
                 <div class="h-full space-y-3 py-5 px-3 flex flex-col justify-between items-center bg-slate-100 rounded-md border-2 border-gray-300 ">
-                    <img src="gambar/ZULFA HARIRAH, MS, S.IP., M.A.png" class="w-1/2 h-40" alt="">
+                    <img src="<?php echo  bloginfo('template_directory').'/img/dosen' ?>/ZULFA HARIRAH, MS, S.IP., M.A.png" class="w-30 h-40" alt="">
     
                     <p class="text-center font-semibold font-poppins text-lg capitalize flex-1">ZULFA HARIRAH, MS, S.IP., M.A
                     </p>

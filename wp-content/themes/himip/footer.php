@@ -4,10 +4,10 @@
             <div class="container px-5 py-8 mx-auto flex justify-between sm:flex-row flex-col">
 
                 <p class="text-sm text-gray-500 sm:py-2 sm:mt-0 mt-4">©
-                    2022 HIMIP UNRI
+                    2022 HIMIP Candradimuka | UNRI
                 </p>
                 <p class="text-sm text-gray-500 sm:py-2 sm:mt-0 mt-4">
-                    <a href="https://beetcodestudio.github.io">POWERED BY BEETCODESTUDIO</a>
+                    <a href="https://beetcodestudio.github.io">Powered By BEETCODESTUDIO</a>
                 </p>
             </div>
         </footer>
