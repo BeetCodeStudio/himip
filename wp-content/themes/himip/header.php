@@ -63,7 +63,7 @@
                                     <div class=" rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
                                         <a href="<?php echo esc_url(home_url('/sambutan-bupati')); ?>" class="text-gray-700 hover:text-blue-800 block px-4 py-2 text-sm">Sambutan
                                             Bupati HIMIP</a>
-                                        <a href="<?php echo esc_url(home_url('/visi')); ?>" class="text-gray-700 hover:text-blue-800 block px-4 py-2 text-sm">Visi
+                                        <a href="<?php echo esc_url(home_url('/visi-himip')); ?>" class="text-gray-700 hover:text-blue-800 block px-4 py-2 text-sm">Visi
                                             Misi</a>
                                         <a href="<?php echo esc_url(home_url('/struktur-organisasi')); ?>" class="text-gray-700 hover:text-blue-800 block px-4 py-2 text-sm">Struktur
                                             HIMIP</a>

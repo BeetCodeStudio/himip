@@ -46,6 +46,7 @@
 <?php
 query_posts('category_name=upcoming-event&showposts=1');
 
+if (have_posts()) :
 
 while (have_posts()) : the_post();
 ?>
@@ -108,10 +109,21 @@ while (have_posts()) : the_post();
 <?php
 
 endwhile;
+
+else : ?>
+    <section class="container flex flex-col items-center text-center py-5">
+        <h2 class="subtitle py-10">Upcoming Event
+        </h2>
+        <p>No content posted yet!</p>
+    </section>
+    
+<?php
+endif;
 rewind_posts();
 
 query_posts('category_name=press-release&showposts=1');
 
+if (have_posts()) :
 while (have_posts()) : the_post();
 ?>
     <!--  pressrealese -->
@@ -167,6 +179,15 @@ while (have_posts()) : the_post();
     <!--  pressrealese -->
 <?php
 endwhile;
+else : ?>
+    <section class="container flex flex-col items-center text-center py-5">
+        <h2 class="subtitle py-10">Press Release
+        </h2>
+        <p>No content posted yet!</p>
+    </section>
+    
+<?php
+endif;
 rewind_posts();
 
 ?>
