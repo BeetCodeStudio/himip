@@ -56,62 +56,40 @@
         <!-- Updated -->
     <section class="text-gray-600 body-font">
         <div class="w-full h-full flex justify-center items-center">
-            <div class="w-60 h-60 bg-center bg-auto" style="background-image: url('LogoCandradimuka.png');"></div>
+            <img class="w-60 h-60 bg-center bg-auto" src="<?php echo  bloginfo('template_directory') ?>/img/candradimuka.png">
         </div>
         <div class="flex flex-wrap w-full mb-10 flex-col items-center text-center">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Filosofi logo
+            <h1 class="subtitle text-center">Filosofi logo
             </h1>
-            <p class="lg:w-1/2 w-full leading-relaxed text-black">Logo adalah simbol dari suatu organisasi yang
+ 
+            <p class="lg:w-1/2 w-full leading-relaxed text-black text-center ">Logo adalah simbol dari suatu organisasi yang
                 mencerminkan makna atau pesan yang ingin disampaikan dan penggambaran identitas diri dari suatu
                 organisasi. Pengurus Himpunan Mahasiswa Ilmu Pemerintahan periode 2021/2022 menghadirkan sebuah logo
                 dengan tiga bagian utama yang memiliki filosofi sebagai berikut :</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-5 container px-5 pt-5 pb-16 mx-auto text-center">
-            <div class="flex flex-col border bg-white border-gray-200 p-6 rounded-lg">
-                <div class="flex justify-center items-center">
-                    <div
-                        class="w-16 h-16 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                            stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
-                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                        </svg>
-                    </div>
-                </div>
-                <div class="flex justify-center items-center">
-                    <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Atap</h2>
-                </div>
-                <p class="flex-1 leading-relaxed text-base">Melambangkan wadah untuk mahasiswa Ilmu Pemerintahan
+            <div class="flex flex-col p-6 
+            bg-slate-100 flex border-2 border-gray-300 rounded-md">
+               
+                    <h2 class="text-2xl font-poppins font-bold text-blue-800 capitalize text-center mb-2">Atap</h2>
+                    <hr>
+
+                <p class="flex-1 leading-relaxed text-base mt-2">Melambangkan wadah untuk mahasiswa Ilmu Pemerintahan
                     menempah dan mengasah diri pribadi agar memiliki karakter.</p>
             </div>
-            <div class="flex flex-col border bg-white border-gray-200 p-6 rounded-lg">
-                <div class="flex justify-center items-center">
-                    <div
-                        class="w-16 h-16 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                            stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
-                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                        </svg>
-                    </div>
-                </div>
-                <div class="flex justify-center items-center">
-                    <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Garis Setengah Segitiga</h2>
-                </div>
-                <p class="flex-1 leading-relaxed text-base">Melambangkan sifat kuat, terlatih, dan tangkas.</p>
+            <div class="flex flex-col p-6 
+            bg-slate-100 flex border-2 border-gray-300 rounded-md">
+               
+                    <h2 class="text-2xl font-poppins font-bold text-blue-800 capitalize text-center mb-2">Garis Setengah Segitiga</h2>
+                    <hr>
+                <p class="flex-1 leading-relaxed text-base mt-2">Melambangkan sifat kuat, terlatih, dan tangkas.</p>
             </div>
-            <div class="flex flex-col border bg-white border-gray-200 p-6 rounded-lg">
-                <div class="flex justify-center items-center">
-                    <div
-                        class="w-16 h-16 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                            stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
-                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                        </svg>
-                    </div>
-                </div>
-                <div class="flex justify-center items-center">
-                    <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Tangan Mengepal</h2>
-                </div>
-                <p class="flex-1 leading-relaxed text-base">Melambangkan pendirian yang teguh serta melambangkan
+            <div class="flex flex-col p-6 
+            bg-slate-100 flex border-2 border-gray-300 rounded-md">
+                
+                    <h2 class="text-2xl font-poppins font-bold text-blue-800 capitalize text-center mb-2">Tangan Mengepal</h2>
+                    <hr>
+                <p class="flex-1 leading-relaxed text-base mt-2">Melambangkan pendirian yang teguh serta melambangkan
                     perjuangan dan pergerakan.
                 </p>
             </div>
